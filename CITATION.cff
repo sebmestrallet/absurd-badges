@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Absurd badges
+message: >-
+  To reference this repository, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Sébastien
+    family-names: Mestrallet
+    orcid: 'https://orcid.org/0000-0002-4519-2814'
+repository-code: 'https://github.com/sebmestrallet/absurd-badges'
+abstract: 'A collection of absurd, humorous, static badges'
+keywords:
+  - badge
+  - badgen
+  - badges
+  - badges-list
+  - humor
+  - readme
+  - shieldsio
+  - static-badges
+license: MIT-0
