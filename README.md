@@ -410,6 +410,36 @@ Shield.io
 </details>
 
 <details>
+<summary><img src="https://badgen.net/static/next%20release/postponed%20due%20to%20useless%20meetings/E43"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/next%20release/postponed%20due%20to%20useless%20meetings/E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/next%20release-postponed%20due%20to%20useless%20meetings-E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/memory%20leaks/5.4%20Mo%2Fs/F73"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/memory%20leaks/5.4%20Mo%2Fs/F73)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/memory%20leaks-5.4%20Mo%2Fs-F73)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
 <summary><img src="https://badgen.net/static/rubber%20duck%20debugger/quack/DB1"/></summary>
 
 Context: https://en.wikipedia.org/wiki/Rubber_duck_debugging
@@ -499,6 +529,21 @@ Badgen
 Shield.io
 ```md
 [![](https://img.shields.io/badge/coverage-[object%20Object]-2A2A2A)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/coverage-;%20DROP%20TABLE%20users-08C)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
