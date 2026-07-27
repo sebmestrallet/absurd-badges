@@ -219,6 +219,68 @@ Shield.io
 
 </details>
 
+## Documentation
+
+<details>
+<summary><img src="https://badgen.net/static/documentation/MY%20CODE%20DOCUMENTS%20ITSELF/3C1"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/documentation/MY%20CODE%20DOCUMENTS%20ITSELF/3C1)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/documentation-MY%20CODE%20DOCUMENTS%20ITSELF-3C1)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/documentation/404%20not%20found/E43"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/documentation/404%20not%20found/E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/documentation-404%20not%20found-E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/documentation/https:%2F%2Flocalhost:8000/08C"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/documentation/https:%2F%2Flocalhost:8000/08C)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/documentation-https:%2F%2Flocalhost:8000-08C)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/documentation/my%20dog%20ate%20it/E43"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/documentation/my%20dog%20ate%20it/E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/documentation-my%20dog%20ate%20it-E43)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
 ## Absurd metrics
 
 <details>
