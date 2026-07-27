@@ -202,6 +202,21 @@ Shield.io
 
 </details>
 
+<details>
+<summary><img src="https://badgen.net/static/code%20style/yes.%20all%20of%20them./3C1"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/code%20style/yes.%20all%20of%20them./3C1)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/code%20style-yes.%20all%20of%20them.-3C1)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
 ## Version numbers
 
 <details>
