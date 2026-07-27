@@ -156,16 +156,16 @@ Shield.io
 ## Code size
 
 <details>
-<summary><img src="https://badgen.net/static/code%20size/23.64%20GiB/3C1"/></summary>
+<summary><img src="https://badgen.net/static/code%20size/23.64%20TiB/3C1"/></summary>
 
 Badgen
 ```md
-[![](https://badgen.net/static/code%20size/23.64%20GiB/3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/code%20size/23.64%20TiB/3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 Shield.io
 ```md
-[![](https://img.shields.io/badge/code%20size-23.64%20GiB-3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/code%20size-23.64%20TiB-3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
