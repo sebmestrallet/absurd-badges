@@ -121,38 +121,6 @@ Shield.io
 
 </details>
 
-<details>
-<summary><img src="https://badgen.net/static/license/BSD%2029-clause/08C"/></summary>
-
-Badgen
-```md
-[![](https://badgen.net/static/license/BSD%2029-clause/08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-Shield.io
-```md
-[![](https://img.shields.io/badge/license-BSD%2029--clause-08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-</details>
-
-<details>
-<summary><img src="https://badgen.net/static/license/hot%20potato/08C"/></summary>
-
-The license is defined [here](https://github.com/ErikMcClure/bad-licenses/blob/master/hot-potato-license), see [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) and [benlk/misc-licenses](https://github.com/benlk/misc-licenses) for more obscur licenses.
-
-Badgen
-```md
-[![](https://badgen.net/static/license/hot%20potato/08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-Shield.io
-```md
-[![](https://img.shields.io/badge/license-hot%20potato-08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-</details>
-
 ## Code size
 
 <details>
