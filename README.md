@@ -222,31 +222,31 @@ Shield.io
 ## Absurd metrics
 
 <details>
-<summary><img src="https://badgen.net/static/dev.%20involving%20human%20life%20forms/yes/3C1"/></summary>
+<summary><img src="https://badgen.net/static/development%20involving%20human%20life%20forms/yes/3C1"/></summary>
 
 Badgen
 ```md
-[![](https://badgen.net/static/dev.%20involving%20human%20life%20forms/yes/3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/development%20involving%20human%20life%20forms/yes/3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 Shield.io
 ```md
-[![](https://img.shields.io/badge/dev.%20involving%20human%20life%20forms-yes-3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/development%20involving%20human%20life%20forms-yes-3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
 
 <details>
-<summary><img src="https://badgen.net/static/created%20an%20AGI%20by%20mistake/no/3C1"/></summary>
+<summary><img src="https://badgen.net/static/has%20accidentally%20created%20an%20AGI/no/3C1"/></summary>
 
 Badgen
 ```md
-[![](https://badgen.net/static/created%20an%20AGI%20by%20mistake/no/3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/has%20accidentally%20created%20an%20AGI/no/3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 Shield.io
 ```md
-[![](https://img.shields.io/badge/created%20an%20AGI%20by%20mistake-no-3C1)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/has%20accidentally%20created%20an%20AGI-no-3C1)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
