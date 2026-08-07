@@ -534,21 +534,6 @@ Shield.io
 </details>
 
 <details>
-<summary><img src="https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C"/></summary>
-
-Badgen
-```md
-[![](https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-Shield.io
-```md
-[![](https://img.shields.io/badge/coverage-;%20DROP%20TABLE%20users-08C)](https://github.com/sebmestrallet/absurd-badges)
-```
-
-</details>
-
-<details>
 <summary><img src="https://badgen.net/static/coverage/Sure,%20here's%20the%20computed%20value%20you%20asked%20for/08C"/></summary>
 
 Badgen
@@ -559,6 +544,21 @@ Badgen
 Shield.io
 ```md
 [![](https://img.shields.io/badge/coverage-Sure,%20here's%20the%20computed%20value%20you%20asked%20for-08C)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+</details>
+
+<details>
+<summary><img src="https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C"/></summary>
+
+Badgen
+```md
+[![](https://badgen.net/static/coverage/;%20DROP%20TABLE%20users/08C)](https://github.com/sebmestrallet/absurd-badges)
+```
+
+Shield.io
+```md
+[![](https://img.shields.io/badge/coverage-;%20DROP%20TABLE%20users-08C)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
