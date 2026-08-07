@@ -267,16 +267,16 @@ Shield.io
 </details>
 
 <details>
-<summary><img src="https://badgen.net/static/documentation/https:%2F%2Flocalhost:8000/08C"/></summary>
+<summary><img src="https://badgen.net/static/documentation/http:%2F%2Flocalhost:8000/08C"/></summary>
 
 Badgen
 ```md
-[![](https://badgen.net/static/documentation/https:%2F%2Flocalhost:8000/08C)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://badgen.net/static/documentation/http:%2F%2Flocalhost:8000/08C)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 Shield.io
 ```md
-[![](https://img.shields.io/badge/documentation-https:%2F%2Flocalhost:8000-08C)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/documentation-http:%2F%2Flocalhost:8000-08C)](https://github.com/sebmestrallet/absurd-badges)
 ```
 
 </details>
